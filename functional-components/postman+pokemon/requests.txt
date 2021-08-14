@@ -1,0 +1,13 @@
+Request 1: https://pokeapi.co/api/v2/pokemon
+Request 2: https://pokeapi.co/api/v2/pokemon/ivysaur
+Request 3: https://pokeapi.co/api/v2/ability
+Request 4: https://pokeapi.co/api/v2/ability/20
+Request 5: https://pokeapi.co/api/v2/language
+
+Read instructions wrong initially -- here's 5 pokemon: 
+
+Bulbasaur: https://pokeapi.co/api/v2/pokemon/1
+Squirtle: https://pokeapi.co/api/v2/pokemon/squirtle
+IvySaur: https://pokeapi.co/api/v2/pokemon/ivysaur
+Raticate: https://pokeapi.co/api/v2/pokemon/20/"
+Pidgey: https://pokeapi.co/api/v2/pokemon/pidgey
